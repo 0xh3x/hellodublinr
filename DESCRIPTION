@@ -1,0 +1,9 @@
+Package: hellodublinr
+Type: Package
+Title: Sample Package for DublinR Talk
+Version: 0.1.0
+Author: Giorgi Jvaridze
+Maintainer: Giorgi Jvaridze <spam@notmyemail.com>
+Description: Just simple package to show how simple it is to create packages in R
+License: GPL-3
+LazyData: TRUE
